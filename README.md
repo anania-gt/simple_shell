@@ -1,1 +1,3 @@
 simple shell
+Anania
+Dagmawi
